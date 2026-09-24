@@ -4,9 +4,7 @@ A small personal script that lets me, Wade Mohlmann, post and comment on Reddit 
 
 ## Purpose
 
-This is a personal, non-commercial student project. It supports my Graduation Realisation project at Breda University of Applied Sciences (BUas), which is about task-initiation support for students with ADHD. I use it to take part in peer-support conversations and, where allowed, to share research-recruitment posts.
-
-It supports outreach for my BUas graduation project on task-initiation support for students with ADHD (the Nudge prototype and the INQUIRER interview study). Those project repos are private for now.
+This is a personal, non-commercial student project. It supports outreach for my Graduation Realisation project at Breda University of Applied Sciences (BUas), which is about task-initiation support for students with ADHD (the Nudge prototype and the INQUIRER interview study; those project repos are private for now). I use it to take part in peer-support conversations and, where allowed, to share research-recruitment posts.
 
 ## How it works
 
